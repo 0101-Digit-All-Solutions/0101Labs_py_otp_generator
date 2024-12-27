@@ -4,4 +4,4 @@ A Python library for generating One-Time Passwords (OTPs) with numbers, alphabet
 
 ## Installation
 ```bash
-pip install otp-generator
+pip @0101Labs/otp-generator
