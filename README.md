@@ -4,12 +4,12 @@ A Python library for generating One-Time Passwords (OTPs) with numbers, alphabet
 
 ## Installation
 ```bash
-pip install git+https://github.com/0101-Digit-All-Solutions/-0101Labs-py_otp_generator.git
+pip install git+https://github.com/0101-Digit-All-Solutions/0101Labs_py_otp_generator.git
 
 #Or, for a specific version
 
-pip install git+https://github.com/0101-Digit-All-Solutions/-0101Labs-py_otp_generator.git@v1.0.0
+pip install git+https://github.com/0101-Digit-All-Solutions/0101Labs_py_otp_generator.git@v1.0.0
 
 #Or, with your personal access token(pat)
 
-pip install git+https://<your_pat>@github.com/0101-Digit-All-Solutions/-0101Labs-py_otp_generator.git
+pip install git+https://<your_pat>@github.com/0101-Digit-All-Solutions/0101Labs_py_otp_generator.git
