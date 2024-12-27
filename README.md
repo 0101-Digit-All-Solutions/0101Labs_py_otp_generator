@@ -13,3 +13,10 @@ pip install git+https://github.com/0101-Digit-All-Solutions/0101Labs_py_otp_gene
 #Or, with your personal access token(pat)
 
 pip install git+https://<your_pat>@github.com/0101-Digit-All-Solutions/0101Labs_py_otp_generator.git
+
+#Example Use
+
+from otp_generator import generate_otp
+
+otp = generate_otp(length=6, numeric=True, alphabets=False, special_chars=False)
+print(otp)
