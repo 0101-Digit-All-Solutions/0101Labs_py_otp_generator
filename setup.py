@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='@0101Labs/otp-generator',
+    name='0101Labs_py_otp-generator',
     version='1.0.0',
     description='A Python library for generating OTPs',
     long_description=open('README.md').read(),
